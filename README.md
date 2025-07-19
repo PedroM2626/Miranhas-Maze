@@ -26,7 +26,7 @@ Miranha's Maze é um jogo 3D de terror onde o jogador precisa escapar de um labi
 - Sistema de navegação com NavigationAgent3D
 
 ## Como Jogar
-1. Acesse o link do jogo (disponível em: https://mega.nz/folder/a8IiQA5Y#T5Ahg2r1rddMzaTpBZFV2A).
+1. Acesse o link do projeto completo (disponível em: https://mega.nz/file/upI2xCoY#UlOuPGH-9-hN06kHr0svmviGRsrwLgOoM6dspsU1Yfk).
 2. Descompacte o arquivo.
 3. Abra o projeto no Godot 4.
 4. Execute o projeto.
